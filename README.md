@@ -9,3 +9,7 @@ https://developer.chrome.com/docs/extensions/
 # Getting Started
 
 ![](getting-started.png)
+
+# Extension Popup
+
+![](popup.png)
