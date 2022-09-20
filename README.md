@@ -13,3 +13,7 @@ https://developer.chrome.com/docs/extensions/
 # Extension Popup
 
 ![](popup.png)
+
+# Set Background Color
+
+![](background-color.png)
