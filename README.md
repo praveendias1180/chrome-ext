@@ -17,3 +17,7 @@ https://developer.chrome.com/docs/extensions/
 # Set Background Color
 
 ![](background-color.png)
+
+# Extension Options
+
+![](options.png)
