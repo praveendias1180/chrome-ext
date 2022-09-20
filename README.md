@@ -5,3 +5,7 @@ Extensions are software programs, built on web technologies (such as HTML, CSS, 
 https://developer.chrome.com/docs/extensions/
 
 ![](ext.png)
+
+# Getting Started
+
+![](getting-started.png)
